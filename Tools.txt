@@ -1,0 +1,8 @@
+Keras provides high level API to interact with TensorFlow
+
+
+OpenRefine = data cleaning tool
+
+TensorBoard : can see live whats going on 
+
+
