@@ -1,0 +1,23 @@
+
+STEPS::::
+
+Define the Model
+
+Assemble dataset
+
+
+choose measure of success
+
+decide evaluation protocol 
+
+prepare your data
+
+develop a model
+
+iterate model
+
+
+
+-------------------------
+PREPARING MY DATA BE THE CRUX !!!
+Normalization of Data 
