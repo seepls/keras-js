@@ -1,0 +1,25 @@
+Most recomended Library to use.
+
+ML :
+Supervised
+unsupervised
+self-supervised
+reinforcement
+
+
+
+Vocabulary
+1. Layers
+2. tensors
+3. gradient decent
+4.loss
+
+5.Activation function 
+- sigmoid 
+- ReLU : Rectified linear unit 
+
+Architecture ( most important one )
+- Dense Neural Network
+- Convolutional Neural Network
+- Recurrent Neural Network
+
